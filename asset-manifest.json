@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/get-skill-quote/static/css/main.79b1fd7b.css",
+    "main.js": "/get-skill-quote/static/js/main.9e2dbac8.js",
+    "static/js/787.9c2e55db.chunk.js": "/get-skill-quote/static/js/787.9c2e55db.chunk.js",
+    "index.html": "/get-skill-quote/index.html",
+    "main.79b1fd7b.css.map": "/get-skill-quote/static/css/main.79b1fd7b.css.map",
+    "main.9e2dbac8.js.map": "/get-skill-quote/static/js/main.9e2dbac8.js.map",
+    "787.9c2e55db.chunk.js.map": "/get-skill-quote/static/js/787.9c2e55db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b1fd7b.css",
+    "static/js/main.9e2dbac8.js"
+  ]
+}
